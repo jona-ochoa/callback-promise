@@ -13,6 +13,12 @@
         "director": "Cristopher Nolan",
         "year": "2008",
         "rating": "7.6"
-
+    },
+    {
+        "id": "3",
+        "title": "The Batman",
+        "director": "Chuck Norris",
+        "year": "2013",
+        "rating": "5.6"
     }
 ]
